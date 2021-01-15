@@ -1,8 +1,8 @@
 Сборка проекта:
 
-pip install virtualenv
+pip3 install virtualenv
 
-python -m venv env
+python3 -m venv env
 
 . ./env/bin/activate
 
